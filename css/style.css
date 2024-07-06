@@ -1,0 +1,19 @@
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(48, 48, 48);
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+a {
+    color: rgb(190, 132, 244);
+}
+
+.preview1 {
+    height: 500px;
+}
